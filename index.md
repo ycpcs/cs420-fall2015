@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS420
-title: CS420 - Operating Systems
+title: Operating Systems
 ---
 
 ------------------------
