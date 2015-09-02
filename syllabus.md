@@ -56,10 +56,9 @@ Your grade in this course will be a weighted average based on the following weig
 
   - Homework Assignments:  **10%**
   - Programming Assignments:  **18%**
-  - Reading Quizzes:  **18%**
-  - Exam 1:  **18%**
-  - Exam 2:  **18%**
-  - Final Exam:  **18%**
+  - Exam 1:  **24%**
+  - Exam 2:  **24%**
+  - Final Exam:  **24%**
 
 | Range             |  Grade   |
 |:-----------------:|:--------:|
