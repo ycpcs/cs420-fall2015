@@ -54,7 +54,7 @@ User input is in **bold**.
 
 <pre>
 <b>./filecopy example.txt example_copy.txt</b>
-Copying hello.txt to hello_copy.txt
+Copying example.txt to example_copy.txt
 DONE
 </pre>
 
