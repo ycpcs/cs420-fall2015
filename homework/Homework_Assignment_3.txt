@@ -2,7 +2,7 @@ CS420
 HW3
 To be submitted in class.
 
-1) Can a multithreaded solution using multiple user-level threads achieve better performance on a multiprocessor system than on a single-processor system?  Ignore any hardware-level efficiencies that might be gained.  Explain.
+1) Can a multithreaded solution using multiple user-level threads achieve better performance on a multiprocessor system than on a single-processor system?  Yes or No or “it depends”?  Explain.
 
 
 
