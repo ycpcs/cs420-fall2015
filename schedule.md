@@ -26,7 +26,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Sep 25    |  More on Threading                                                                                |                       |  [Lab #2](labs/lab02.html) <br> Due 10/5 by 11:59 PM                     |
 >|||||
 >| Mon, Sep 28    |  [CPU Scheduling](lectures/lecture9_cpu_scheduling.pdf)                                           |  OSC9 § 6.1 - 6.4     |                       |
->| Wed, Sep 30    |  [CPU Scheduling (continued)](lectures/lecture9_cpu_scheduling.pdf)                               |                       |                       |
+>| Wed, Sep 30    |  [CPU Scheduling (continued)](lectures/lecture9_cpu_scheduling.pdf)                               |                       |  [Homework #4](homework/Homework_Assignment_4.txt) <br> Due 10/5 in class |
 >| Fri, Oct 2     |  [Multiple-Processor Scheduling](lectures/lecture10_multiprocessor_scheduling.pdf)                |  OSC9 § 6.5 - 6.9     |                       |  <!-- homework4 -->
 >|||||
 >| Mon, Oct 5     |  Review for Exam #1                                                                               |                       |                       |
