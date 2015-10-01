@@ -42,7 +42,7 @@ The processes are assumed to have arrived in the order P1, P2, P3, P4, P5, all a
 
 a) Draw four Gantt charts that illustrate the execution of these processes using the following scheduling 
 algorithms: FCFS, SJF, nonpreemptive priority (a smaller priority number implies a higher priority), 
-and RR (quantum=1).
+and RR (quantum=1).  In cases where you have a tie, choose the process with the smaller process number first.
 
 
 b) What is the turnaround time of each process for each of the scheduling algorithms in part a?
