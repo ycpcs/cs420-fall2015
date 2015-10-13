@@ -34,8 +34,8 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Oct 9     |  [Process Synchronization](lectures/lecture11_process_synchronization.pdf)                        |  OSC9 § 5.1 - 5.6     |                       |
 >|||||
 >| Mon, Oct 12    |  [Semaphores](lectures/lecture11_process_synchronization.pdf)                                     |  OSC9 § 5.1 - 5.6     |                       |  
->| Wed, Oct 14    |  [Classic Problems of Synchronization](lectures/lecture12_classic_synchronization_problems.pdf)   |  OSC9 § 5.7 - 5.11    |                       |
->| Fri, Oct 16    |  More on Semaphores and Synchronization                                                           |                       |                       |  <!-- lab03 -->
+>| Wed, Oct 14    |  [Classic Problems of Synchronization](lectures/lecture12_classic_synchronization_problems.pdf)   |  OSC9 § 5.7 - 5.11    |  [Lab #3](labs/lab03.html) <br> Due 10/30 by 11:59 PM  |  <!-- lab03 -->
+>| Fri, Oct 16    |  More on Semaphores and Synchronization                                                           |                       |                       |
 >|||||
 >| Mon, Oct 19    |  **NO CLASS - Fall Break**                                                                        |                       |                       |
 >| Wed, Oct 21    |  [Deadlocks & Deadlock Prevention](lectures/lecture13+14+15_deadlock.pdf)                         |  OSC9 § 7.1 - 7.4     |                       |
