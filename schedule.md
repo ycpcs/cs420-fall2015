@@ -38,7 +38,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Oct 16    |  More on Semaphores and Synchronization                                                           |                       |                       |
 >|||||
 >| Mon, Oct 19    |  **NO CLASS - Fall Break**                                                                        |                       |                       |
->| Wed, Oct 21    |  [Deadlocks & Deadlock Prevention](lectures/lecture13+14+15_deadlock.pdf)                         |  OSC9 § 7.1 - 7.4     |                       |
+>| Wed, Oct 21    |  [Deadlocks & Deadlock Prevention](lectures/lecture13+14+15_deadlock.pdf)                         |  OSC9 § 7.1 - 7.4     |  [Homework #5](homework/Homework_Assignment_5.txt) <br> Due 10/28 in class |
 >| Fri, Oct 23    |  [Deadlock Avoidance](lectures/lecture13+14+15_deadlock.pdf)                                      |  OSC9 § 7.5           |                       |  <!-- homework5 -->
 >|||||
 >| Mon, Oct 26    |  [Deadlock Detection, and Recovery](lectures/lecture13+14+15_deadlock.pdf)                        |  OSC9 § 7.6 - 7.8     |                       |
