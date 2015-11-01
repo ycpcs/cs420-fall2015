@@ -45,8 +45,8 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Oct 28    |  [Main Memory - Swapping and Allocation](lectures/lecture16_main_memory.pdf)                      |  OSC9 § 8.1 - 8.4     |                       |
 >| Fri, Oct 30    |  [Paging & Paging Tables](lectures/lecture17_paging_and_page_tables.pdf)                          |  OSC9 § 8.5 - 8.6     |                       |  <!-- homework6 -->
 >|||||
->| Mon, Nov 2     |  [Virtual Memory](lectures/lecture18_virtual_memory.pdf)                                          |  OSC9 § 9.2 - 9.6     |                       |
->| Wed, Nov 4     |  [Virtual Memory (continued)](lectures/lecture18_virtual_memory.pdf)                              |                       |                       |
+>| Mon, Nov 2     |  [Virtual Memory](lectures/lecture18_virtual_memory.pdf)                                          |  OSC9 § 9.2 - 9.6     |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due 11/9 in class |
+>| Wed, Nov 4     |  [Virtual Memory (continued)](lectures/lecture18_virtual_memory.pdf)                              |                       |  [Homework #7](homework/Homework_Assignment_7.txt) <br> Due 11/9 in class |
 >| Fri, Nov 6     |  [Virtual Memory (continued)](lectures/lecture18_virtual_memory.pdf)                              |                       |                       |  <!-- lab04, homework7 -->
 >|||||
 >| Mon, Nov 9     |  Review for Exam #2                                                                               |                       |                       |
