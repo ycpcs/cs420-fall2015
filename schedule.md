@@ -49,7 +49,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Wed, Nov 4     |  [Virtual Memory (continued)](lectures/lecture18_virtual_memory.pdf)                              |                       |  [Homework #7](homework/Homework_Assignment_7.txt) <br> Due 11/9 in class |
 >| Fri, Nov 6     |  [Virtual Memory (continued)](lectures/lecture18_virtual_memory.pdf)                              |                       |                       |  <!-- lab04, homework7 -->
 >|||||
->| Mon, Nov 9     |  Review for Exam #2                                                                               |                       |                       |
+>| Mon, Nov 9     |  Review for Exam #2                                                                               |                       |  [Practice Exam](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 >| Wed, Nov 11    |  **Exam #2**                                                                                      |                       |                       |
 >| Fri, Nov 13    |  [File System Interface](lectures/lecture19+20_file_system_interface.pdf)                         |  OSC9 § 11.1 - 11.7   |                       |
 >|||||
